@@ -1,0 +1,28 @@
+ul.table {
+  display: flex;
+  width: 100%;
+  list-style: none;
+}
+ul.table > li {
+}
+div.parent_table {
+  float: left;
+}
+
+dl {
+  float: left;
+  border-top: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+}
+
+dt {
+  background: #eee;
+  padding-left: 5px;
+}
+
+dd {
+  margin: 5px 5px 5px 0px;
+  padding-left: 5px;
+}

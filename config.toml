@@ -1,3 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://test_result.kojiisd.tk/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "TESTS RESULT"
+
+[blackfriday]
+  angledQuotes = true
+  extensions = ["hardLineBreak"]
+  fractions = false
+  plainIDAnchors = true
+
+[params]
+  customCSS = ["css/custom.css"]
