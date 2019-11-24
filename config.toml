@@ -9,4 +9,4 @@ title = "TESTS RESULT"
   plainIDAnchors = true
 
 [params]
-  customCSS = ["css/custom.css"]
+  customCSS = ["css/custom.css", "bootstrap/css/bootstrap.min.css"]
